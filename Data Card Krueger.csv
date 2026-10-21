@@ -1,0 +1,821 @@
+store,state,wave,fte,wage_st
+1,Pennsylvania,1,40.5,
+1,Pennsylvania,2,24.0,4.3
+2,Pennsylvania,1,13.75,
+2,Pennsylvania,2,11.5,4.45
+3,Pennsylvania,1,8.5,
+3,Pennsylvania,2,10.5,5.0
+4,Pennsylvania,1,34.0,5.0
+4,Pennsylvania,2,20.0,5.25
+5,Pennsylvania,1,24.0,5.5
+5,Pennsylvania,2,35.5,4.75
+6,Pennsylvania,1,20.5,5.0
+6,Pennsylvania,2,,
+7,Pennsylvania,1,70.5,5.0
+7,Pennsylvania,2,29.0,4.75
+8,Pennsylvania,1,23.5,5.0
+8,Pennsylvania,2,36.5,5.0
+9,Pennsylvania,1,11.0,5.25
+9,Pennsylvania,2,11.0,5.0
+10,Pennsylvania,1,9.0,5.0
+10,Pennsylvania,2,8.5,5.0
+11,Pennsylvania,1,15.5,5.0
+11,Pennsylvania,2,17.5,4.75
+12,Pennsylvania,1,58.0,5.0
+12,Pennsylvania,2,29.0,5.0
+13,Pennsylvania,1,26.5,5.0
+13,Pennsylvania,2,30.5,4.5
+14,Pennsylvania,1,28.5,5.5
+14,Pennsylvania,2,26.0,4.75
+15,Pennsylvania,1,13.5,5.0
+15,Pennsylvania,2,18.0,4.5
+16,Pennsylvania,1,16.75,5.25
+16,Pennsylvania,2,20.0,5.0
+17,Pennsylvania,1,9.5,5.0
+17,Pennsylvania,2,13.5,4.75
+18,Pennsylvania,1,15.0,5.0
+18,Pennsylvania,2,19.0,4.75
+19,Pennsylvania,1,29.5,5.0
+19,Pennsylvania,2,15.5,4.75
+20,Pennsylvania,1,18.5,5.0
+20,Pennsylvania,2,14.5,4.25
+21,Pennsylvania,1,20.25,5.0
+21,Pennsylvania,2,14.0,5.0
+22,Pennsylvania,1,36.0,5.0
+22,Pennsylvania,2,19.0,4.9
+23,Pennsylvania,1,21.0,5.0
+23,Pennsylvania,2,21.0,5.0
+24,Pennsylvania,1,20.5,5.0
+24,Pennsylvania,2,18.0,4.75
+25,Pennsylvania,1,19.0,5.0
+25,Pennsylvania,2,20.5,5.0
+26,Pennsylvania,1,14.0,5.0
+26,Pennsylvania,2,13.5,4.25
+27,Pennsylvania,1,19.0,5.0
+27,Pennsylvania,2,17.5,4.75
+28,Pennsylvania,1,32.5,4.25
+28,Pennsylvania,2,25.5,4.25
+29,Pennsylvania,1,19.0,4.25
+29,Pennsylvania,2,15.5,
+30,Pennsylvania,1,27.0,4.25
+30,Pennsylvania,2,25.5,4.25
+31,Pennsylvania,1,19.5,4.25
+31,Pennsylvania,2,27.0,4.25
+32,Pennsylvania,1,24.0,4.5
+32,Pennsylvania,2,16.0,4.25
+33,Pennsylvania,1,18.0,4.25
+33,Pennsylvania,2,19.0,4.25
+34,Pennsylvania,1,,4.5
+34,Pennsylvania,2,24.5,4.25
+35,Pennsylvania,1,19.0,4.25
+35,Pennsylvania,2,25.0,4.38
+36,Pennsylvania,1,14.0,4.5
+36,Pennsylvania,2,17.0,4.75
+37,Pennsylvania,1,10.5,4.25
+37,Pennsylvania,2,16.5,4.25
+38,Pennsylvania,1,38.0,4.67
+38,Pennsylvania,2,20.0,4.5
+39,Pennsylvania,1,23.5,4.75
+39,Pennsylvania,2,18.0,4.5
+40,Pennsylvania,1,10.5,4.25
+40,Pennsylvania,2,12.0,4.25
+41,Pennsylvania,1,25.0,4.25
+41,Pennsylvania,2,25.0,4.25
+42,Pennsylvania,1,11.0,4.75
+42,Pennsylvania,2,11.0,4.25
+43,Pennsylvania,1,36.5,4.25
+43,Pennsylvania,2,27.0,4.25
+44,Pennsylvania,1,52.5,4.5
+44,Pennsylvania,2,34.0,5.05
+45,Pennsylvania,1,29.0,4.25
+45,Pennsylvania,2,25.0,
+46,Pennsylvania,1,45.0,4.25
+46,Pennsylvania,2,37.5,4.25
+47,Pennsylvania,1,22.75,4.25
+47,Pennsylvania,2,21.0,4.25
+48,Pennsylvania,1,7.5,4.25
+48,Pennsylvania,2,9.5,4.25
+49,Pennsylvania,1,15.5,4.25
+49,Pennsylvania,2,18.0,
+50,Pennsylvania,1,38.0,4.25
+50,Pennsylvania,2,18.0,4.25
+51,Pennsylvania,1,17.5,4.25
+51,Pennsylvania,2,19.0,4.35
+52,Pennsylvania,1,25.0,4.25
+52,Pennsylvania,2,31.5,4.5
+53,Pennsylvania,1,,4.5
+53,Pennsylvania,2,23.0,5.0
+54,Pennsylvania,1,21.0,4.75
+54,Pennsylvania,2,24.5,4.5
+55,Pennsylvania,1,15.5,4.87
+55,Pennsylvania,2,27.5,5.0
+56,Pennsylvania,1,15.5,4.75
+56,Pennsylvania,2,34.5,4.75
+57,Pennsylvania,1,8.5,4.5
+57,Pennsylvania,2,14.0,5.0
+58,Pennsylvania,1,18.0,4.25
+58,Pennsylvania,2,15.0,4.35
+59,Pennsylvania,1,20.75,4.75
+59,Pennsylvania,2,23.0,
+60,Pennsylvania,1,39.0,4.25
+60,Pennsylvania,2,26.5,4.25
+61,Pennsylvania,1,41.5,4.25
+61,Pennsylvania,2,23.5,4.9
+62,Pennsylvania,1,22.5,4.75
+62,Pennsylvania,2,35.5,4.5
+63,Pennsylvania,1,32.0,4.5
+63,Pennsylvania,2,21.0,4.5
+64,Pennsylvania,1,24.0,4.25
+64,Pennsylvania,2,23.0,4.75
+65,Pennsylvania,1,26.0,4.25
+65,Pennsylvania,2,20.0,6.25
+66,Pennsylvania,1,48.5,4.5
+66,Pennsylvania,2,27.0,4.35
+67,Pennsylvania,1,8.5,4.5
+67,Pennsylvania,2,13.0,4.5
+68,Pennsylvania,1,18.5,4.5
+68,Pennsylvania,2,0.0,
+69,Pennsylvania,1,13.0,4.5
+69,Pennsylvania,2,13.5,4.5
+70,Pennsylvania,1,22.5,4.5
+70,Pennsylvania,2,,
+71,Pennsylvania,1,28.0,4.75
+71,Pennsylvania,2,26.75,5.0
+72,Pennsylvania,1,24.5,4.25
+72,Pennsylvania,2,43.5,4.75
+73,Pennsylvania,1,18.5,4.75
+73,Pennsylvania,2,41.25,4.5
+74,Pennsylvania,1,23.5,4.25
+74,Pennsylvania,2,14.25,
+75,Pennsylvania,1,15.0,4.75
+75,Pennsylvania,2,12.5,4.75
+76,Pennsylvania,1,18.0,4.5
+76,Pennsylvania,2,34.0,4.25
+77,Pennsylvania,1,20.25,4.75
+77,Pennsylvania,2,10.0,4.91
+78,Pennsylvania,1,15.5,4.25
+78,Pennsylvania,2,14.0,4.4
+79,Pennsylvania,1,21.0,4.35
+79,Pennsylvania,2,17.5,4.25
+80,New Jersey,1,15.0,
+80,New Jersey,2,27.0,5.05
+81,New Jersey,1,15.0,
+81,New Jersey,2,21.5,5.05
+82,New Jersey,1,24.0,
+82,New Jersey,2,23.0,5.05
+83,New Jersey,1,19.25,
+83,New Jersey,2,21.5,5.05
+84,New Jersey,1,21.5,
+84,New Jersey,2,34.5,5.05
+85,New Jersey,1,9.5,
+85,New Jersey,2,10.5,5.05
+86,New Jersey,1,44.0,
+86,New Jersey,2,16.5,5.05
+87,New Jersey,1,,
+87,New Jersey,2,23.0,5.05
+88,New Jersey,1,21.0,
+88,New Jersey,2,38.0,5.05
+89,New Jersey,1,28.0,
+89,New Jersey,2,36.0,5.25
+90,New Jersey,1,10.0,
+90,New Jersey,2,16.0,
+91,New Jersey,1,20.5,
+91,New Jersey,2,20.5,5.05
+92,New Jersey,1,25.5,
+92,New Jersey,2,19.0,5.05
+93,New Jersey,1,19.0,
+93,New Jersey,2,53.0,5.05
+94,New Jersey,1,16.5,
+94,New Jersey,2,16.5,5.05
+95,New Jersey,1,17.0,
+95,New Jersey,2,16.5,5.05
+96,New Jersey,1,27.5,
+96,New Jersey,2,45.0,5.05
+97,New Jersey,1,5.0,5.0
+97,New Jersey,2,8.0,5.05
+98,New Jersey,1,16.0,5.12
+98,New Jersey,2,15.5,5.05
+99,New Jersey,1,41.5,5.56
+99,New Jersey,2,24.0,5.05
+100,New Jersey,1,13.0,5.0
+100,New Jersey,2,7.5,5.05
+101,New Jersey,1,10.0,5.0
+101,New Jersey,2,7.5,5.05
+102,New Jersey,1,15.0,5.25
+102,New Jersey,2,18.5,5.05
+103,New Jersey,1,26.0,5.0
+103,New Jersey,2,16.5,5.05
+104,New Jersey,1,18.0,5.5
+104,New Jersey,2,33.5,5.05
+105,New Jersey,1,35.0,5.0
+105,New Jersey,2,37.0,5.05
+106,New Jersey,1,21.0,5.0
+106,New Jersey,2,18.0,5.05
+107,New Jersey,1,34.5,5.0
+107,New Jersey,2,26.5,5.05
+108,New Jersey,1,18.25,5.0
+108,New Jersey,2,33.0,5.05
+109,New Jersey,1,24.5,5.0
+109,New Jersey,2,,5.05
+110,New Jersey,1,20.0,5.5
+110,New Jersey,2,20.5,5.05
+111,New Jersey,1,16.0,5.0
+111,New Jersey,2,24.5,5.5
+112,New Jersey,1,17.5,5.0
+112,New Jersey,2,16.0,5.05
+113,New Jersey,1,20.5,5.0
+113,New Jersey,2,,5.05
+114,New Jersey,1,20.0,5.0
+114,New Jersey,2,23.5,5.05
+115,New Jersey,1,12.25,5.0
+115,New Jersey,2,13.0,5.05
+116,New Jersey,1,33.0,5.25
+116,New Jersey,2,20.0,5.05
+117,New Jersey,1,31.5,5.5
+117,New Jersey,2,22.0,5.05
+118,New Jersey,1,,5.5
+118,New Jersey,2,28.5,5.5
+119,New Jersey,1,18.0,5.37
+119,New Jersey,2,,
+120,New Jersey,1,28.0,5.05
+120,New Jersey,2,25.5,5.05
+121,New Jersey,1,16.5,5.0
+121,New Jersey,2,18.0,5.28
+122,New Jersey,1,14.75,5.12
+122,New Jersey,2,9.0,5.25
+123,New Jersey,1,23.5,5.25
+123,New Jersey,2,26.5,5.05
+124,New Jersey,1,10.0,5.0
+124,New Jersey,2,0.0,
+125,New Jersey,1,46.5,5.12
+125,New Jersey,2,23.75,5.05
+126,New Jersey,1,15.5,5.0
+126,New Jersey,2,18.0,5.5
+127,New Jersey,1,24.5,5.0
+127,New Jersey,2,36.0,5.05
+128,New Jersey,1,24.0,5.0
+128,New Jersey,2,21.0,5.05
+129,New Jersey,1,23.0,5.0
+129,New Jersey,2,15.5,5.05
+130,New Jersey,1,28.0,5.0
+130,New Jersey,2,22.5,5.05
+131,New Jersey,1,32.5,5.0
+131,New Jersey,2,27.0,5.05
+132,New Jersey,1,23.0,5.0
+132,New Jersey,2,34.0,5.05
+133,New Jersey,1,17.0,5.62
+133,New Jersey,2,16.75,5.05
+134,New Jersey,1,30.0,5.0
+134,New Jersey,2,26.0,5.05
+135,New Jersey,1,21.5,5.0
+135,New Jersey,2,18.0,5.05
+136,New Jersey,1,32.0,5.0
+136,New Jersey,2,20.5,5.05
+137,New Jersey,1,8.0,5.0
+137,New Jersey,2,15.0,5.05
+138,New Jersey,1,35.5,5.1
+138,New Jersey,2,25.5,5.05
+139,New Jersey,1,31.5,5.0
+139,New Jersey,2,,5.05
+140,New Jersey,1,33.0,5.25
+140,New Jersey,2,20.0,5.05
+141,New Jersey,1,22.0,5.5
+141,New Jersey,2,18.0,5.05
+142,New Jersey,1,23.0,5.0
+142,New Jersey,2,26.5,5.05
+143,New Jersey,1,23.0,5.0
+143,New Jersey,2,23.25,5.05
+144,New Jersey,1,8.5,5.0
+144,New Jersey,2,10.5,5.05
+145,New Jersey,1,12.5,5.05
+145,New Jersey,2,12.0,5.25
+146,New Jersey,1,9.5,5.5
+146,New Jersey,2,9.5,5.05
+147,New Jersey,1,13.0,5.0
+147,New Jersey,2,15.5,5.05
+148,New Jersey,1,17.0,5.3
+148,New Jersey,2,14.5,5.05
+149,New Jersey,1,9.0,5.0
+149,New Jersey,2,14.0,5.05
+150,New Jersey,1,19.0,5.0
+150,New Jersey,2,6.5,5.05
+151,New Jersey,1,11.5,5.0
+151,New Jersey,2,10.0,5.05
+152,New Jersey,1,13.0,5.0
+152,New Jersey,2,11.5,5.05
+153,New Jersey,1,48.0,5.25
+153,New Jersey,2,46.5,5.05
+154,New Jersey,1,45.5,5.15
+154,New Jersey,2,26.5,5.05
+155,New Jersey,1,15.0,5.42
+155,New Jersey,2,16.0,5.67
+156,New Jersey,1,18.0,5.0
+156,New Jersey,2,13.0,5.05
+157,New Jersey,1,21.0,5.0
+157,New Jersey,2,14.0,5.05
+158,New Jersey,1,20.5,5.06
+158,New Jersey,2,15.5,5.05
+159,New Jersey,1,20.5,5.05
+159,New Jersey,2,18.0,5.05
+160,New Jersey,1,17.5,5.0
+160,New Jersey,2,27.0,5.25
+161,New Jersey,1,27.5,5.0
+161,New Jersey,2,27.0,5.25
+162,New Jersey,1,24.0,5.0
+162,New Jersey,2,29.5,5.05
+163,New Jersey,1,34.0,5.25
+163,New Jersey,2,16.5,5.5
+164,New Jersey,1,18.0,5.0
+164,New Jersey,2,31.5,5.05
+165,New Jersey,1,24.0,5.0
+165,New Jersey,2,27.5,5.05
+166,New Jersey,1,,5.05
+166,New Jersey,2,25.5,5.05
+167,New Jersey,1,33.5,5.0
+167,New Jersey,2,32.0,5.5
+168,New Jersey,1,12.0,5.75
+168,New Jersey,2,14.5,5.5
+169,New Jersey,1,35.0,5.0
+169,New Jersey,2,10.5,5.05
+170,New Jersey,1,35.0,4.5
+170,New Jersey,2,44.0,5.05
+171,New Jersey,1,16.0,4.75
+171,New Jersey,2,15.5,5.25
+172,New Jersey,1,15.5,4.25
+172,New Jersey,2,10.5,5.05
+173,New Jersey,1,19.0,4.75
+173,New Jersey,2,24.0,5.05
+174,New Jersey,1,24.0,4.5
+174,New Jersey,2,29.0,5.15
+175,New Jersey,1,,4.8
+175,New Jersey,2,30.5,5.05
+176,New Jersey,1,36.0,4.37
+176,New Jersey,2,20.0,5.05
+177,New Jersey,1,29.0,4.25
+177,New Jersey,2,26.5,5.05
+178,New Jersey,1,29.0,4.25
+178,New Jersey,2,27.0,5.05
+179,New Jersey,1,21.25,4.37
+179,New Jersey,2,26.5,5.05
+180,New Jersey,1,15.5,4.5
+180,New Jersey,2,10.5,5.0
+181,New Jersey,1,19.5,4.6
+181,New Jersey,2,18.0,5.05
+182,New Jersey,1,21.0,4.5
+182,New Jersey,2,18.5,5.05
+183,New Jersey,1,14.0,4.37
+183,New Jersey,2,25.5,5.05
+184,New Jersey,1,30.5,4.25
+184,New Jersey,2,32.0,5.05
+185,New Jersey,1,23.5,4.25
+185,New Jersey,2,33.0,5.05
+186,New Jersey,1,14.0,4.45
+186,New Jersey,2,7.5,5.05
+187,New Jersey,1,14.5,4.35
+187,New Jersey,2,12.5,5.05
+188,New Jersey,1,15.5,4.5
+188,New Jersey,2,24.0,5.05
+189,New Jersey,1,26.5,4.75
+189,New Jersey,2,29.0,5.05
+190,New Jersey,1,8.0,4.5
+190,New Jersey,2,10.0,
+191,New Jersey,1,5.5,4.5
+191,New Jersey,2,9.5,5.05
+192,New Jersey,1,23.25,4.5
+192,New Jersey,2,17.5,5.05
+193,New Jersey,1,15.5,4.95
+193,New Jersey,2,17.5,5.05
+194,New Jersey,1,32.25,4.5
+194,New Jersey,2,25.0,5.05
+195,New Jersey,1,30.0,4.25
+195,New Jersey,2,26.0,5.05
+196,New Jersey,1,,4.25
+196,New Jersey,2,24.0,5.05
+197,New Jersey,1,30.5,4.5
+197,New Jersey,2,22.5,5.05
+198,New Jersey,1,14.0,4.8
+198,New Jersey,2,,5.05
+199,New Jersey,1,27.0,4.25
+199,New Jersey,2,35.0,5.05
+200,New Jersey,1,18.5,4.5
+200,New Jersey,2,17.75,5.05
+201,New Jersey,1,38.0,4.25
+201,New Jersey,2,24.5,5.05
+202,New Jersey,1,16.5,4.25
+202,New Jersey,2,16.5,5.05
+203,New Jersey,1,50.0,4.5
+203,New Jersey,2,30.0,5.05
+204,New Jersey,1,20.5,4.75
+204,New Jersey,2,39.0,5.05
+205,New Jersey,1,6.5,4.25
+205,New Jersey,2,17.0,5.05
+206,New Jersey,1,13.5,4.25
+206,New Jersey,2,12.5,5.05
+207,New Jersey,1,28.0,4.25
+207,New Jersey,2,38.5,5.05
+208,New Jersey,1,21.5,4.5
+208,New Jersey,2,20.0,5.05
+209,New Jersey,1,,4.25
+209,New Jersey,2,21.0,5.05
+210,New Jersey,1,24.0,4.5
+210,New Jersey,2,32.0,5.05
+211,New Jersey,1,20.5,4.25
+211,New Jersey,2,19.0,5.05
+212,New Jersey,1,,4.5
+212,New Jersey,2,20.0,5.05
+213,New Jersey,1,23.5,4.25
+213,New Jersey,2,26.5,5.05
+214,New Jersey,1,23.0,4.25
+214,New Jersey,2,19.0,5.05
+215,New Jersey,1,17.0,4.25
+215,New Jersey,2,20.0,5.05
+216,New Jersey,1,20.5,4.25
+216,New Jersey,2,22.5,5.05
+217,New Jersey,1,23.5,4.25
+217,New Jersey,2,10.0,5.05
+218,New Jersey,1,9.5,4.25
+218,New Jersey,2,12.5,5.05
+219,New Jersey,1,10.0,4.25
+219,New Jersey,2,11.0,5.05
+220,New Jersey,1,14.0,4.25
+220,New Jersey,2,12.5,5.05
+221,New Jersey,1,85.0,4.75
+221,New Jersey,2,59.0,5.05
+222,New Jersey,1,15.0,4.75
+222,New Jersey,2,19.0,5.05
+223,New Jersey,1,21.5,4.4
+223,New Jersey,2,15.5,5.05
+224,New Jersey,1,53.0,4.62
+224,New Jersey,2,19.0,5.05
+225,New Jersey,1,24.0,4.25
+225,New Jersey,2,26.5,5.05
+226,New Jersey,1,20.5,4.25
+226,New Jersey,2,17.5,5.05
+227,New Jersey,1,14.5,4.25
+227,New Jersey,2,20.5,5.05
+228,New Jersey,1,25.0,4.25
+228,New Jersey,2,28.0,5.05
+229,New Jersey,1,27.0,4.25
+229,New Jersey,2,30.25,5.05
+230,New Jersey,1,22.5,4.75
+230,New Jersey,2,44.0,5.25
+231,New Jersey,1,36.5,4.75
+231,New Jersey,2,17.5,5.05
+232,New Jersey,1,17.25,4.25
+232,New Jersey,2,31.0,5.05
+233,New Jersey,1,21.5,4.25
+233,New Jersey,2,31.0,5.05
+234,New Jersey,1,24.5,4.75
+234,New Jersey,2,28.5,5.05
+235,New Jersey,1,19.0,4.5
+235,New Jersey,2,19.0,5.05
+236,New Jersey,1,25.0,4.25
+236,New Jersey,2,41.0,5.05
+237,New Jersey,1,16.0,4.25
+237,New Jersey,2,28.0,5.05
+238,New Jersey,1,19.0,4.5
+238,New Jersey,2,9.5,5.05
+239,New Jersey,1,22.75,4.5
+239,New Jersey,2,25.0,5.05
+240,New Jersey,1,35.0,4.5
+240,New Jersey,2,28.0,5.5
+241,New Jersey,1,16.0,4.75
+241,New Jersey,2,16.0,5.05
+242,New Jersey,1,21.0,4.62
+242,New Jersey,2,22.75,5.05
+243,New Jersey,1,26.75,4.25
+243,New Jersey,2,,
+244,New Jersey,1,30.5,4.25
+244,New Jersey,2,32.0,5.05
+245,New Jersey,1,23.0,4.5
+245,New Jersey,2,27.5,5.67
+246,New Jersey,1,21.5,4.75
+246,New Jersey,2,25.5,5.05
+247,New Jersey,1,36.5,4.25
+247,New Jersey,2,60.5,5.05
+248,New Jersey,1,23.0,4.8
+248,New Jersey,2,20.5,5.05
+249,New Jersey,1,14.0,4.5
+249,New Jersey,2,16.0,5.05
+250,New Jersey,1,17.25,4.67
+250,New Jersey,2,25.0,5.75
+251,New Jersey,1,18.5,4.87
+251,New Jersey,2,13.0,5.05
+252,New Jersey,1,8.5,4.5
+252,New Jersey,2,9.0,5.05
+253,New Jersey,1,14.0,4.5
+253,New Jersey,2,16.5,5.25
+254,New Jersey,1,23.0,4.75
+254,New Jersey,2,21.0,5.05
+255,New Jersey,1,29.0,4.75
+255,New Jersey,2,21.5,5.05
+256,New Jersey,1,19.0,4.25
+256,New Jersey,2,20.0,5.25
+257,New Jersey,1,21.0,4.25
+257,New Jersey,2,21.25,5.05
+258,New Jersey,1,17.0,4.75
+258,New Jersey,2,21.5,5.05
+259,New Jersey,1,36.0,4.85
+259,New Jersey,2,31.0,5.05
+260,New Jersey,1,25.0,4.75
+260,New Jersey,2,33.0,5.05
+261,New Jersey,1,29.5,4.62
+261,New Jersey,2,37.75,5.05
+262,New Jersey,1,22.0,4.25
+262,New Jersey,2,9.0,5.05
+263,New Jersey,1,11.0,4.25
+263,New Jersey,2,11.0,5.05
+264,New Jersey,1,13.5,4.5
+264,New Jersey,2,12.75,5.05
+265,New Jersey,1,13.5,4.5
+265,New Jersey,2,10.5,5.05
+266,New Jersey,1,18.0,4.62
+266,New Jersey,2,22.0,5.05
+267,New Jersey,1,9.5,4.5
+267,New Jersey,2,8.0,5.05
+268,New Jersey,1,24.0,4.75
+268,New Jersey,2,25.0,5.05
+269,New Jersey,1,14.5,4.75
+269,New Jersey,2,12.5,5.05
+270,New Jersey,1,29.0,4.87
+270,New Jersey,2,22.5,5.25
+271,New Jersey,1,10.5,4.5
+271,New Jersey,2,11.5,5.05
+272,New Jersey,1,18.0,4.25
+272,New Jersey,2,23.5,5.05
+273,New Jersey,1,,4.25
+273,New Jersey,2,30.0,5.05
+274,New Jersey,1,9.0,4.35
+274,New Jersey,2,16.5,5.05
+275,New Jersey,1,33.0,4.25
+275,New Jersey,2,29.0,5.05
+276,New Jersey,1,19.5,4.5
+276,New Jersey,2,30.0,5.05
+277,New Jersey,1,41.0,4.25
+277,New Jersey,2,22.5,5.05
+278,New Jersey,1,17.0,4.25
+278,New Jersey,2,24.0,5.05
+279,New Jersey,1,18.25,4.25
+279,New Jersey,2,21.75,5.05
+280,New Jersey,1,17.0,4.75
+280,New Jersey,2,13.5,5.2
+281,New Jersey,1,32.0,4.62
+281,New Jersey,2,24.0,5.05
+282,New Jersey,1,26.0,4.25
+282,New Jersey,2,28.5,5.05
+283,New Jersey,1,11.5,4.5
+283,New Jersey,2,10.0,5.05
+284,New Jersey,1,21.0,4.5
+284,New Jersey,2,23.5,5.05
+285,New Jersey,1,22.75,4.5
+285,New Jersey,2,30.5,5.05
+286,New Jersey,1,18.5,4.55
+286,New Jersey,2,24.75,5.05
+287,New Jersey,1,20.0,4.62
+287,New Jersey,2,22.5,5.05
+288,New Jersey,1,18.0,4.5
+288,New Jersey,2,28.0,5.05
+289,New Jersey,1,10.5,4.25
+289,New Jersey,2,14.0,5.05
+290,New Jersey,1,10.5,4.25
+290,New Jersey,2,9.0,5.05
+291,New Jersey,1,11.0,4.35
+291,New Jersey,2,9.5,5.05
+292,New Jersey,1,10.5,4.25
+292,New Jersey,2,15.5,5.05
+293,New Jersey,1,12.5,4.25
+293,New Jersey,2,12.0,5.05
+294,New Jersey,1,18.0,4.6
+294,New Jersey,2,11.5,5.05
+295,New Jersey,1,17.0,4.25
+295,New Jersey,2,12.5,5.05
+296,New Jersey,1,15.0,4.75
+296,New Jersey,2,16.0,5.05
+297,New Jersey,1,19.5,4.75
+297,New Jersey,2,28.5,5.05
+298,New Jersey,1,13.0,4.25
+298,New Jersey,2,15.0,5.3
+299,New Jersey,1,20.25,4.5
+299,New Jersey,2,23.5,5.05
+300,New Jersey,1,26.0,4.5
+300,New Jersey,2,30.5,5.5
+301,New Jersey,1,15.5,4.25
+301,New Jersey,2,26.5,5.05
+302,New Jersey,1,24.0,4.75
+302,New Jersey,2,27.0,5.05
+303,New Jersey,1,25.5,4.65
+303,New Jersey,2,21.5,5.05
+304,New Jersey,1,14.5,4.25
+304,New Jersey,2,,5.05
+305,New Jersey,1,21.5,4.25
+305,New Jersey,2,21.5,5.05
+306,New Jersey,1,14.0,4.75
+306,New Jersey,2,37.5,5.05
+307,New Jersey,1,20.0,4.25
+307,New Jersey,2,11.5,5.05
+308,New Jersey,1,22.5,4.5
+308,New Jersey,2,21.0,5.05
+309,New Jersey,1,30.0,4.25
+309,New Jersey,2,28.0,5.05
+310,New Jersey,1,24.0,4.5
+310,New Jersey,2,24.0,5.05
+311,New Jersey,1,22.0,4.75
+311,New Jersey,2,23.0,5.05
+312,New Jersey,1,13.0,4.37
+312,New Jersey,2,19.0,5.05
+313,New Jersey,1,5.0,4.5
+313,New Jersey,2,7.0,5.05
+314,New Jersey,1,13.5,4.87
+314,New Jersey,2,14.0,5.05
+315,New Jersey,1,28.0,4.25
+315,New Jersey,2,,
+316,New Jersey,1,18.0,4.25
+316,New Jersey,2,32.0,5.05
+317,New Jersey,1,24.0,4.25
+317,New Jersey,2,22.0,5.05
+318,New Jersey,1,16.5,4.25
+318,New Jersey,2,14.25,5.05
+319,New Jersey,1,7.0,4.25
+319,New Jersey,2,16.5,5.05
+320,New Jersey,1,11.0,4.25
+320,New Jersey,2,0.0,
+321,New Jersey,1,19.5,4.25
+321,New Jersey,2,47.5,5.05
+322,New Jersey,1,10.0,4.45
+322,New Jersey,2,15.5,5.05
+323,New Jersey,1,13.0,4.62
+323,New Jersey,2,10.5,5.05
+324,New Jersey,1,10.0,4.25
+324,New Jersey,2,7.0,5.05
+325,New Jersey,1,12.5,4.25
+325,New Jersey,2,11.0,5.05
+326,New Jersey,1,8.0,4.25
+326,New Jersey,2,8.5,5.05
+327,New Jersey,1,12.0,4.25
+327,New Jersey,2,0.0,
+328,New Jersey,1,20.5,4.5
+328,New Jersey,2,15.0,5.05
+329,New Jersey,1,18.5,4.75
+329,New Jersey,2,13.5,5.05
+330,New Jersey,1,11.5,4.75
+330,New Jersey,2,12.5,5.05
+331,New Jersey,1,15.0,4.5
+331,New Jersey,2,12.5,5.05
+332,New Jersey,1,13.0,4.75
+332,New Jersey,2,12.5,5.05
+333,New Jersey,1,10.0,4.25
+333,New Jersey,2,10.0,5.05
+334,New Jersey,1,17.0,4.75
+334,New Jersey,2,13.5,5.05
+335,New Jersey,1,17.0,4.55
+335,New Jersey,2,16.0,5.1
+336,New Jersey,1,20.5,4.8
+336,New Jersey,2,23.5,5.05
+337,New Jersey,1,15.5,4.75
+337,New Jersey,2,,5.05
+338,New Jersey,1,19.5,4.25
+338,New Jersey,2,34.0,5.05
+339,New Jersey,1,30.5,4.35
+339,New Jersey,2,32.5,5.05
+340,New Jersey,1,23.0,4.5
+340,New Jersey,2,21.5,5.05
+341,New Jersey,1,13.0,4.39
+341,New Jersey,2,20.0,5.05
+342,New Jersey,1,30.25,4.25
+342,New Jersey,2,43.5,5.2
+343,New Jersey,1,18.0,4.25
+343,New Jersey,2,17.5,5.05
+344,New Jersey,1,10.0,4.25
+344,New Jersey,2,7.0,5.05
+345,New Jersey,1,19.5,4.5
+345,New Jersey,2,,5.05
+346,New Jersey,1,17.0,4.62
+346,New Jersey,2,22.0,5.25
+347,New Jersey,1,25.5,4.62
+347,New Jersey,2,22.0,5.05
+348,New Jersey,1,6.0,4.25
+348,New Jersey,2,7.0,5.05
+349,New Jersey,1,11.5,4.75
+349,New Jersey,2,14.0,5.05
+350,New Jersey,1,8.5,4.62
+350,New Jersey,2,27.0,5.05
+351,New Jersey,1,18.5,4.75
+351,New Jersey,2,18.5,5.05
+352,New Jersey,1,15.5,4.5
+352,New Jersey,2,11.5,5.05
+353,New Jersey,1,14.25,4.25
+353,New Jersey,2,16.0,5.05
+354,New Jersey,1,38.0,4.5
+354,New Jersey,2,25.0,5.05
+355,New Jersey,1,24.75,4.87
+355,New Jersey,2,30.5,5.05
+356,New Jersey,1,23.0,4.25
+356,New Jersey,2,11.5,5.05
+357,New Jersey,1,24.0,4.25
+357,New Jersey,2,25.5,5.05
+358,New Jersey,1,7.5,4.62
+358,New Jersey,2,9.5,5.05
+359,New Jersey,1,15.0,4.75
+359,New Jersey,2,11.5,5.05
+360,New Jersey,1,9.25,4.25
+360,New Jersey,2,12.0,
+361,New Jersey,1,11.25,4.25
+361,New Jersey,2,0.0,
+362,New Jersey,1,16.5,4.75
+362,New Jersey,2,17.0,5.05
+363,New Jersey,1,18.75,4.25
+363,New Jersey,2,24.0,5.05
+364,New Jersey,1,13.5,4.75
+364,New Jersey,2,,
+365,New Jersey,1,21.75,4.37
+365,New Jersey,2,,5.05
+366,New Jersey,1,13.5,4.87
+366,New Jersey,2,13.5,
+367,New Jersey,1,15.0,4.25
+367,New Jersey,2,17.0,5.05
+368,New Jersey,1,17.5,4.25
+368,New Jersey,2,28.0,5.05
+369,New Jersey,1,17.5,4.25
+369,New Jersey,2,21.5,5.05
+370,New Jersey,1,,4.25
+370,New Jersey,2,30.0,5.05
+371,New Jersey,1,15.5,4.25
+371,New Jersey,2,19.5,5.2
+372,New Jersey,1,16.5,4.25
+372,New Jersey,2,20.0,5.05
+373,New Jersey,1,13.5,4.5
+373,New Jersey,2,14.5,5.05
+374,New Jersey,1,13.0,4.25
+374,New Jersey,2,14.5,5.05
+375,New Jersey,1,11.5,4.35
+375,New Jersey,2,0.0,
+376,New Jersey,1,29.05,4.85
+376,New Jersey,2,31.5,5.05
+377,New Jersey,1,13.0,4.5
+377,New Jersey,2,11.5,5.05
+378,New Jersey,1,18.0,4.25
+378,New Jersey,2,20.0,5.05
+379,New Jersey,1,30.0,4.62
+379,New Jersey,2,34.0,5.05
+380,New Jersey,1,20.5,4.5
+380,New Jersey,2,25.0,5.05
+381,New Jersey,1,10.0,4.5
+381,New Jersey,2,10.0,5.05
+382,New Jersey,1,,4.65
+382,New Jersey,2,18.0,5.05
+383,New Jersey,1,26.0,4.25
+383,New Jersey,2,25.0,5.05
+384,New Jersey,1,12.5,4.25
+384,New Jersey,2,23.0,5.05
+385,New Jersey,1,19.5,4.25
+385,New Jersey,2,17.5,5.05
+386,New Jersey,1,12.0,4.62
+386,New Jersey,2,23.0,5.25
+387,New Jersey,1,36.0,4.87
+387,New Jersey,2,26.0,5.4
+388,New Jersey,1,21.0,4.25
+388,New Jersey,2,16.5,5.05
+389,New Jersey,1,24.5,4.75
+389,New Jersey,2,35.5,5.05
+390,New Jersey,1,20.0,4.87
+390,New Jersey,2,31.0,5.05
+391,New Jersey,1,26.5,4.5
+391,New Jersey,2,23.0,5.05
+392,New Jersey,1,15.0,4.25
+392,New Jersey,2,22.5,5.05
+393,New Jersey,1,19.0,4.75
+393,New Jersey,2,21.5,5.05
+394,New Jersey,1,17.5,4.32
+394,New Jersey,2,12.0,5.05
+395,New Jersey,1,20.5,4.25
+395,New Jersey,2,20.5,5.05
+396,New Jersey,1,21.0,4.5
+396,New Jersey,2,25.0,5.05
+397,New Jersey,1,10.5,4.5
+397,New Jersey,2,8.5,5.05
+398,New Jersey,1,23.0,4.25
+398,New Jersey,2,13.0,5.05
+399,New Jersey,1,23.0,4.25
+399,New Jersey,2,21.5,5.05
+400,New Jersey,1,29.0,4.25
+400,New Jersey,2,23.0,5.05
+401,New Jersey,1,21.0,4.25
+401,New Jersey,2,25.5,5.05
+402,New Jersey,1,41.5,4.25
+402,New Jersey,2,21.5,5.05
+403,New Jersey,1,12.0,4.25
+403,New Jersey,2,9.5,5.05
+404,New Jersey,1,33.0,4.62
+404,New Jersey,2,36.5,5.05
+405,New Jersey,1,6.5,4.75
+405,New Jersey,2,16.0,5.05
+406,New Jersey,1,9.0,4.95
+406,New Jersey,2,23.75,5.25
+407,New Jersey,1,9.75,4.75
+407,New Jersey,2,17.5,5.25
+408,New Jersey,1,24.5,4.25
+408,New Jersey,2,20.5,5.05
+409,New Jersey,1,14.0,4.75
+409,New Jersey,2,20.5,5.05
+410,New Jersey,1,19.5,4.62
+410,New Jersey,2,25.0,5.14
